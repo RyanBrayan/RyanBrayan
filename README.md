@@ -20,5 +20,6 @@ Olá, Eu sou Ryan 😁
 <div> 
  
   <a href="https://www.linkedin.com/in/ryan-brayan-478049221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvpbZMWtVVPbkwQsxmRfXMQxGhcpqlVNMWDbPMhjVtHtskGdvpbxFXqjHqKxbFzrGglMbB" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    ![Snake animation](https://github.com/RyanBrayan/RyanBrayan/blob/output/github-contribution-grid-snake.svg)
  
